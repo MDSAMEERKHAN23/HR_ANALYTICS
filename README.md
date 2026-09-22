@@ -1,13 +1,10 @@
 # HR_ANALYTICS
-Bilkul bhai. Ye HR Analytics Dashboard hai. Iske liye main tumhe GitHub, Fiverr Portfolio aur Resume ke according detailed description de raha hoon.
-
- HR Analytics Dashboard — Detailed Project Description
 
 HR Analytics Dashboard is an interactive data analytics project designed to analyze workforce information and provide a clear overview of employee demographics, departments, job roles, salaries, and employee attrition.
 
 The dashboard converts HR data into meaningful visual insights, helping users understand workforce distribution and identify important patterns across different employee categories.
 
- Key Performance Indicators
+🔑 Key Performance Indicators
 
 The top section contains three major HR metrics:
 
@@ -17,7 +14,7 @@ Average Salary – 6.50K: Represents the average salary across employees.
 
 These KPIs provide a quick summary of the organization's workforce.
 
- Employee Analysis by Marital Status
+📈 Employee Analysis by Marital Status
 
 The Total Employee by Marital Status visualization compares employees across:
 
@@ -27,7 +24,7 @@ Divorced – 326K
 
 This helps understand the distribution of employees based on marital status.
 
- Employee Distribution by Department
+🏢 Employee Distribution by Department
 
 The department visualization shows the workforce distribution across departments such as:
 
@@ -37,7 +34,7 @@ Human Resources
 
 It allows HR teams to understand which departments contain the largest share of employees.
 
- Employee Distribution by Gender
+👥 Employee Distribution by Gender
 
 The gender visualization provides a breakdown of employees by gender:
 
@@ -46,7 +43,7 @@ Female – 593K
 
 This helps analyze the overall gender distribution within the workforce.
 
- Employee Analysis by Age
+🎂 Employee Analysis by Age
 
 The age-group chart categorizes employees into different age ranges:
 
@@ -58,7 +55,7 @@ The age-group chart categorizes employees into different age ranges:
 
 This provides an overview of the organization's workforce age structure.
 
- Employee Distribution by Job Role
+💼 Employee Distribution by Job Role
 
 The job-role analysis compares employee counts across different positions, including:
 
@@ -74,7 +71,7 @@ Human Resources – 64K
 
 This helps identify how employees are distributed across different roles.
 
- Skills Demonstrated
+🛠️ Skills Demonstrated
 
 This project demonstrates practical skills in:
 
