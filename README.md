@@ -80,4 +80,4 @@ This project demonstrates practical skills in:
 
 Data Cleaning | Data Analysis | Data Visualization | Dashboard Development | KPI Creation | HR Analytics | Employee Analysis | Attrition Analysis | Data Interpretation | Interactive Reporting
 
-SCREENSHOT OF PROJECT:
+SCREENSHOT OF PROJECT:https://github.com/MDSAMEERKHAN23/HR_ANALYTICS/blob/main/Screenshot%202026-09-22%20083830.png
